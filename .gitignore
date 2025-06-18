@@ -1,0 +1,57 @@
+# === Java / Eclipse / Geral ===
+
+# Compiled class files
+*.class
+
+# Logs
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Eclipse project files
+.settings/
+.project
+.classpath
+
+# IDE-specific folders
+.idea/
+*.iml
+*.iws
+
+# VS Code
+.vscode/
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Backup files
+*~
+*.bak
+
+# Temporary files
+*.tmp
+*.swp
+
+# Bin and build output
+bin/
+build/
+out/
+target/
+
+# Git keeps
+!.gitignore
+
