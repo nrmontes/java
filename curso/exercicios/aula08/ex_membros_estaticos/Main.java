@@ -1,4 +1,4 @@
-package ex_membros_estaticos;
+package aula08.ex_membros_estaticos;
 
 import java.util.Locale;
 import java.util.Scanner;

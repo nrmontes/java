@@ -1,4 +1,4 @@
-package vetores_tipoClasse;
+package aula10.vetores_tipoClasse;
 
 public class Product {
 	private String name;

@@ -1,12 +1,12 @@
-package exerc.funcion.application;
+package aula13.exerc.funcion.application;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Locale;
 import java.util.Scanner;
 
-import exerc.funcion.entities.Employee;
-import exerc.funcion.entities.OutsourcedEmployee;
+import aula13.exerc.funcion.entities.Employee;
+import aula13.exerc.funcion.entities.OutsourcedEmployee;
 
 public class Program6 {
 

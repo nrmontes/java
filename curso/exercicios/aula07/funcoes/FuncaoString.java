@@ -1,4 +1,4 @@
-package funcoes;
+package aula07.funcoes;
 
 public class FuncaoString {
 	public static void main(String[] args) {

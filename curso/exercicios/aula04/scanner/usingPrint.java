@@ -1,4 +1,4 @@
-package scanner;
+package aula04.scanner;
 import java.util.Locale;
 
 /*

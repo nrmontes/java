@@ -1,4 +1,4 @@
-package ex_03;
+package aula08.ex_03;
 
 import java.util.Locale;
 import java.util.Scanner;

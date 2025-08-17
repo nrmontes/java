@@ -1,4 +1,4 @@
-package ex_01;
+package aula09.ex_01;
 
 import java.util.Locale;
 import java.util.Scanner;

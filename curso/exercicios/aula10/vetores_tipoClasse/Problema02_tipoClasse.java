@@ -1,4 +1,4 @@
-package vetores_tipoClasse;
+package aula10.vetores_tipoClasse;
 
 import java.util.Locale;
 import java.util.Scanner;

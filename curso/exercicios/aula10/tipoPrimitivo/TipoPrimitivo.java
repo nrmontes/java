@@ -1,4 +1,4 @@
-package tipoPrimitivo;
+package aula10.tipoPrimitivo;
 
 public class TipoPrimitivo {
 

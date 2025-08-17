@@ -1,4 +1,4 @@
-package ex_exemplo;
+package aula12.ex_exemplo;
 
 public enum OrderStatus {
 

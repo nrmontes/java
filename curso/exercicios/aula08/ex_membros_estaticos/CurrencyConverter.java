@@ -1,4 +1,4 @@
-package ex_membros_estaticos;
+package aula08.ex_membros_estaticos;
 
 public class CurrencyConverter {
 	public static double IOF = 0.06;

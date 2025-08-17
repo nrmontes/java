@@ -1,4 +1,4 @@
-package ex_03;
+package aula08.ex_03;
 
 public class Student {
 	public String name;

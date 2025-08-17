@@ -1,4 +1,4 @@
-package vetores_tipoPrimitivo;
+package aula10.vetores_tipoPrimitivo;
 
 import java.util.Locale;
 import java.util.Scanner;

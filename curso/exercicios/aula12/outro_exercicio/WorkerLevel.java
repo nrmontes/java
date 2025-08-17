@@ -1,4 +1,4 @@
-package outro_exercicio;
+package aula12.outro_exercicio;
 
 public enum WorkerLevel {
 

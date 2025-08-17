@@ -1,13 +1,13 @@
-package exerc.contribuinte.application;
+package aula13.exerc.contribuinte.application;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Locale;
 import java.util.Scanner;
 
-import exerc.contribuinte.entities.Pessoa;
-import exerc.contribuinte.entities.PessoaFisica;
-import exerc.contribuinte.entities.PessoaJuridica;
+import aula13.exerc.contribuinte.entities.Pessoa;
+import aula13.exerc.contribuinte.entities.PessoaFisica;
+import aula13.exerc.contribuinte.entities.PessoaJuridica;
 
 public class Program8 {
 

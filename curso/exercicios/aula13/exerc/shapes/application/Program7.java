@@ -1,14 +1,14 @@
-package exerc.shapes.application;
+package aula13.exerc.shapes.application;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Locale;
 import java.util.Scanner;
 
-import exerc.shapes.entities.Circle;
-import exerc.shapes.entities.Color;
-import exerc.shapes.entities.Rectangle;
-import exerc.shapes.entities.Shape;
+import aula13.exerc.shapes.entities.Circle;
+import aula13.exerc.shapes.entities.Color;
+import aula13.exerc.shapes.entities.Rectangle;
+import aula13.exerc.shapes.entities.Shape;
 
 public class Program7 {
 

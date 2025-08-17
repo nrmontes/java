@@ -1,4 +1,4 @@
-package ex_fixacao;
+package aula12.ex_fixacao;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

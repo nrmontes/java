@@ -1,4 +1,4 @@
-package ex_01;
+package aula08.ex_01;
 
 public class Rectangle {
 	public double width, height;

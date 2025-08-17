@@ -1,4 +1,4 @@
-package exerc.contribuinte.entities;
+package aula13.exerc.contribuinte.entities;
 
 public class PessoaFisica extends Pessoa {
 

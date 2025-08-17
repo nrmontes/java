@@ -1,4 +1,4 @@
-package outro_exercicio;
+package aula12.outro_exercicio;
 
 import java.util.ArrayList;
 import java.util.Calendar;

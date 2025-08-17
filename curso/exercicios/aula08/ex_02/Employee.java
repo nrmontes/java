@@ -1,4 +1,4 @@
-package ex_02;
+package aula08.ex_02;
 
 public class Employee {
 	public String name;

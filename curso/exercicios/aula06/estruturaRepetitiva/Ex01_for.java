@@ -1,4 +1,4 @@
-package estruturaRepetitiva;
+package aula06.estruturaRepetitiva;
 
 import java.util.Scanner;
 

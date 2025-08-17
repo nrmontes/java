@@ -1,4 +1,4 @@
-package listas_introducao;
+package aula10.listas_introducao;
 
 import java.util.ArrayList;
 import java.util.List;

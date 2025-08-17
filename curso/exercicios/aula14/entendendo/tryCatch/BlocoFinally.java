@@ -1,4 +1,4 @@
-package entendendo.tryCatch;
+package aula14.entendendo.tryCatch;
 
 import java.io.File;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package exerc.funcion.entities;
+package aula13.exerc.funcion.entities;
 
 public class OutsourcedEmployee extends Employee {
 

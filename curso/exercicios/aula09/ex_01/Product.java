@@ -1,4 +1,4 @@
-package ex_01;
+package aula09.ex_01;
 
 public class Product {
 	private String name;

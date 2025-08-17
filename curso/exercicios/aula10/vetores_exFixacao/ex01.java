@@ -1,4 +1,4 @@
-package vetores_exFixacao;
+package aula10.vetores_exFixacao;
 
 import java.util.Scanner;
 

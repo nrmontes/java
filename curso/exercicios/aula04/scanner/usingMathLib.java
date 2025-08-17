@@ -1,4 +1,4 @@
-package scanner;
+package aula04.scanner;
 
 public class usingMathLib {
 	public static void main(String[] args) {

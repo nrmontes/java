@@ -1,4 +1,4 @@
-package desafio_pensionato;
+package aula10.desafio_pensionato;
 
 import java.util.Locale;
 import java.util.Scanner;

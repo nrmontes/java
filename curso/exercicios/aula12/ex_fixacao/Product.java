@@ -1,4 +1,4 @@
-package ex_fixacao;
+package aula12.ex_fixacao;
 
 public class Product {
 

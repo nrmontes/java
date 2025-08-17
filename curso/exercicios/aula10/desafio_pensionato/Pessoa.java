@@ -1,4 +1,4 @@
-package desafio_pensionato;
+package aula10.desafio_pensionato;
 
 public class Pessoa {
 	String nome, email;

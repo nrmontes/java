@@ -1,13 +1,13 @@
-package exercicio.reserva.application;
+package aula14.exercicio.verybadsolution.application;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Scanner;
 
-import exercicio.reserva.model.entities.Reservation;
+import aula14.exercicio.verybadsolution.model.entities.Reservation_verybadsolution;
 
-public class Program9 {
+public class Program_verybadsolution {
 
 	public static void main(String[] args) throws ParseException {
 
@@ -24,7 +24,7 @@ public class Program9 {
 		if (!checkOut.after(checkIn)) {
 			System.out.println("Error in reservation: Check-out date must be after check-in date!");
 		} else {
-			Reservation reservation = new Reservation(number, checkIn, checkOut);
+			Reservation_verybadsolution reservation = new Reservation_verybadsolution(number, checkIn, checkOut);
 			System.out.println("Reservation: " + reservation);
 
 			System.out.println();
@@ -34,8 +34,17 @@ public class Program9 {
 			System.out.print("Check-out date (dd/MM/yyyy): ");
 			checkOut = sdf.parse(sc.next());
 
-			reservation.updateDates(checkIn, checkOut);
-			System.out.println("Reservation: " + reservation);
+			Date now = new Date();
+			if (checkIn.before(now) || checkOut.before(now)) {
+				System.out.println("Error in reservation: Reservation dates por update must be future dates!");
+			} 
+			else if (!checkOut.after(checkIn)) {
+				System.out.println("Error in reservation: Check-out date must be after check-in date!");
+			} 
+			else {
+				reservation.updateDates(checkIn, checkOut);
+				System.out.println("Reservation: " + reservation);
+			}
 		}
 
 		sc.close();

@@ -1,4 +1,4 @@
-package estruturaCondicional;
+package aula05.estruturaCondicional;
 
 import java.util.Locale;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package ex_fixacao;
+package aula09.ex_fixacao;
 
 import java.util.Locale;
 import java.util.Scanner;
