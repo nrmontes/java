@@ -17,6 +17,7 @@ public class ProgramLmbda {
 		list.add(new Product("Tablet", "450.00"));
 		
 		list.sort(ProgramLmbda::compareProducts); 
+		
 		list.forEach(System.out::println);
 	}
 
